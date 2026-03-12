@@ -1,0 +1,23 @@
+# Arduino
+*.hex
+*.elf
+*.bin
+*.uf2
+*.elf
+*.map
+*.eep
+*.sym
+*.lst
+*.bak
+*.tmp
+*.swp
+*.class
+*.dll
+*.exe
+*.o
+*.so
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.log
